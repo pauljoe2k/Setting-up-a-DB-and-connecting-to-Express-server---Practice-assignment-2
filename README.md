@@ -66,7 +66,7 @@ Message: User created successfully
 Status: 400  
 Message: Validation error (explanation)  
 
-## Submission:
+## Submission: 
 
 - Submit the complete project including:
   - The Express.js server code.
